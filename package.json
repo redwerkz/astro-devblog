@@ -15,7 +15,7 @@
     "@astrojs/netlify": "^1.0.1",
     "@astrojs/svelte": "1.0.2",
     "@astrojs/tailwind": "^1.0.0",
-    "astro": "^1.0.3",
+    "astro": "1.5.0",
     "gray-matter": "^4.0.3",
     "prisma": "^4.2.1",
     "svelte": "^3.49.0",
