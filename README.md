@@ -6,7 +6,7 @@ See the [blog post](https://astro-devblog.netlify.app/article/how-to-use-astro-d
 
 Before deploying to Netlify, generate a [CockroachDB serverless database](https://cockroachlabs.cloud/) and copy the connection string.
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/christopher-kapic/astro-devblog"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+[![Deploy with Vercel](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/christopher-kapic/astro-devblog) [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/advanced-astro/astro-devb109)
 
 For a more detailed set of instructions, see [this blog post](https://astro-devblog.netlify.app/article/how-to-use-astro-devblog).
 
