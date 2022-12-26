@@ -7,7 +7,7 @@ specifiers:
   '@prisma/client': 4.8.0
   astro: 1.6.2
   gray-matter: 4.0.3
-  nanostores: 0.7.0
+  nanostores: 0.7.1
   node-fetch: 3.3.0
   prisma: 4.8.0
   svelte: 3.52.0
@@ -15,7 +15,7 @@ specifiers:
 
 dependencies:
   '@prisma/client': 4.8.0_prisma@4.8.0
-  nanostores: 0.7.0
+  nanostores: 0.7.1
   node-fetch: 3.3.0
 
 devDependencies:
@@ -2844,8 +2844,8 @@ packages:
     hasBin: true
     dev: true
 
-  /nanostores/0.7.0:
-    resolution: {integrity: sha512-y+ma9MVXuPzXKEXaRYW/iL/xG/HtMwB8fmFcMfUqt5fCNR/na2kDubbZGV4furUMTgmxfySJs0cQjORWhaPDyA==}
+  /nanostores/0.7.1:
+    resolution: {integrity: sha512-7HenoVpZOjRudHCmAVWKloBTk3+Ozw49KuRWq/pNlEIIVS3x9dID+I5z3Rhjxl1muhHwv4dFhpT+0FebT9jvaA==}
     engines: {node: ^14.0.0 || ^16.0.0 || >=18.0.0}
     dev: false
 
