@@ -1,3 +1,5 @@
+[![Scorecards supply-chain security](https://github.com/advanced-astro/astro-devb109/actions/workflows/scorecards.yml/badge.svg)](https://github.com/advanced-astro/astro-devb109/actions/workflows/scorecards.yml)
+
 # Welcome to [Astro Devblog](https://astro-devblog.netlify.app)
 
 See the [blog post](https://astro-devblog.netlify.app/article/how-to-use-astro-devblog) or the [YouTube video](https://youtu.be/8c7_vX3XPDc).
