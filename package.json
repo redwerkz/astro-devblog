@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@prisma/client": "4.8.0",
-    "nanostores": "0.7.1",
+    "nanostores": "0.7.3",
     "node-fetch": "3.3.0"
   }
 }
