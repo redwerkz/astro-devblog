@@ -24,3 +24,9 @@ I'm done actively contributing to this template (unless I decide otherwise), but
 1. Image optimizations
 2. Improved security (encrypt API tokens in db)
 3. Improve the UI/styling
+
+
+# Acknowledgement
+
+- [Compare CockroachDB with YugabyteDB](https://docs.yugabyte.com/preview/faq/comparisons/cockroachdb/)
+- [YugabyteDB vs CockroachDB](https://www.cockroachlabs.com/guides/cockroach-vs-yugabyte/)
