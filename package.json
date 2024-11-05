@@ -17,12 +17,12 @@
     "@astrojs/tailwind": "4.0.0",
     "astro": "2.9.1",
     "gray-matter": "4.0.3",
-    "prisma": "5.0.0",
+    "prisma": "5.22.0",
     "svelte": "4.1.1",
     "ts-node": "10.9.1"
   },
   "dependencies": {
-    "@prisma/client": "5.0.0",
+    "@prisma/client": "5.22.0",
     "nanostores": "0.9.3",
     "node-fetch": "3.3.1"
   }
